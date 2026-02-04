@@ -1,4 +1,7 @@
-# Pulsador-de-inyectores-con-v3-con-ArduinoEste proyecto es para realizar el pulsador de inyectores utilizando un arduino nano y transistores, el pulsador de inyectores cuenta con 3 modos de operación básicos, este pulsador de inyectores fue hecho con la colaboracion de mi amigo Jonathan Nuno.
+
+# Pulsador-de-inyectores-con-v3-con-Arduino
+
+Este proyecto es para realizar el pulsador de inyectores utilizando un arduino nano y transistores, el pulsador de inyectores cuenta con 3 modos de operación básicos, este pulsador de inyectores fue hecho con la colaboracion de mi amigo Jonathan Nuno.
 
 1. MODO 1:
   INY.ON/OFF: 1S:
